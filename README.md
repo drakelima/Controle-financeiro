@@ -3,8 +3,9 @@ APP em ReactJS para ciclos de pagamento usando Redux e MongoDB para uso pessoal 
 
 ## Pré-requisitos
 - NodeJs
-- MongoDB
-Ambos devem ter as variáveis de ambiente configuradas corretamente
+- MongoDB 
+
+Observação: Ambos devem ter as variáveis de ambiente configuradas corretamente
 
 ## Tecnologias utilizadas
 ### Front-end
